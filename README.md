@@ -1,4 +1,4 @@
-thevinyllibrary
+The Vinyl Library 
 ===============
 
-The Vinyl Library site
+The Vinyl Library is a not-for-profit vinyl co-operative for the whole community.
